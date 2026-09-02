@@ -44,7 +44,7 @@ Python and PostgreSQL do not need to be installed separately when running the pr
 
 ### 1. Clone the repository
 
-git clone <your-github-repository-url>
+git clone "https://github.com/Mohammad-Fawad/book-price-tracker"
 cd book-price-tracker
 
 ### 2. Create the environment file
