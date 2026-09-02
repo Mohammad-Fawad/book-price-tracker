@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+SQLAlchemy
+psycopg[binary]
+python-dotenv
+requests
+beautifulsoup4
